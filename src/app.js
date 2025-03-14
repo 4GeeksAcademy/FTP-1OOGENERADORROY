@@ -5,7 +5,7 @@ import "./style.css";
 import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
 
-window.onclick = function() {
+window.onload = function() {
 
 
 let who = ['The dog', 'My grandma', 'The mailman', 'My bird'];
